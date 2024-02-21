@@ -1,0 +1,19 @@
+{
+    "name":"CORE STAKE TOKEN",
+    "website": "https://www.corestake.org/",
+    "description":"null",
+    "explorer":"https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "type":"ERC20",
+    "symbol":"CST",
+    "idReadApi":"coredaoorg",
+    "id":"0xc24b642357d7dd1bbe33f3d8aa0101dfa2cf6eb9",
+     "tags": [
+        "stablecoin"
+    ],
+    "links" : [
+        {
+            "name":"geckoterminal",
+            "url":"https://www.geckoterminal.com/core/pools/0x92edf9d66581283e8c7502f288b7be37d25d3722"
+        }
+    ]
+}

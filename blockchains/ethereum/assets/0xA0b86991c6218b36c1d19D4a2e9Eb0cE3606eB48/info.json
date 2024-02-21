@@ -1,0 +1,19 @@
+{
+    "name":"USDC",
+    "website": "https://www.circle.com/en/usdc",
+    "description":"USD Coin (USDC) is a stablecoin pegged to the US Dollar, commonly used in blockchain transactions and applications.",
+    "explorer":"https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "type":"ERC20",
+    "symbol":"USDC",
+    "idReadApi":"usd-coin",
+    "id":"0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+     "tags": [
+        "stablecoin"
+    ],
+    "links" : [
+        {
+            "name":"coingecko",
+            "url":"https://www.coingecko.com/en/coins/usdc"
+        }
+    ]
+}

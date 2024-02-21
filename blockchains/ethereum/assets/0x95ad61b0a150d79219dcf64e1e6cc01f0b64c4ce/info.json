@@ -1,0 +1,19 @@
+{
+    "name":"Shiba Inu",
+    "website": "https://shibatoken.com/",
+    "description":"Shiba Inu (SHIB) is an entertainment token on Ethereum, often referred to as Shiba Token.",
+    "explorer":"https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "type":"ERC20",
+    "symbol":"SHIB",
+    "idReadApi":"shiba-inu",
+    "id":"0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+     "tags": [
+        "stablecoin"
+    ],
+    "links" : [
+        {
+            "name":"coingecko",
+            "url":"https://www.coingecko.com/vi/ty_gia/shiba-inu"
+        }
+    ]
+}

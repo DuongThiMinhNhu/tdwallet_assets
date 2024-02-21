@@ -1,0 +1,19 @@
+{
+    "name":"WETH",
+    "website": "https://weth.io/",
+    "description":"WETH (Wrapped Ether) is a type of token on Ethereum that represents Ether in the form of an ERC-20 standard token, enabling ETH to participate seamlessly in ERC-20 applications and smart contracts.",
+    "explorer":"https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "type":"ERC20",
+    "symbol":"WETH",
+    "idReadApi":"weth",
+    "id":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+     "tags": [
+        "stablecoin"
+    ],
+    "links" : [
+        {
+            "name":"coingecko",
+            "url":"https://www.coingecko.com/en/coins/weth"
+        }
+    ]
+}

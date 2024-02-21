@@ -1,0 +1,21 @@
+{
+    "name":"Tether",
+    "website":"https://tether.to/",
+    "description":"Tether (USDT) is a stablecoin on the blockchain, pegged to the value of the US Dollar, commonly used in transactions and blockchain projects.",
+    "explorer": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "type": "ERC20",
+    "symbol":"USDT",
+    "decimals": 6,
+    "status": "active",
+    "idReadApi":"tether",
+    "id": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+    "tags": [
+        "stablecoin"
+    ],
+     "links" : [
+        {
+            "name":"coingecko",
+            "url":"https://www.coingecko.com/en/coins/tether"
+        }
+    ]
+}

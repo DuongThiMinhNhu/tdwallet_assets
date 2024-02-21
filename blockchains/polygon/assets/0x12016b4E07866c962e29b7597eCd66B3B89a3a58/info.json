@@ -1,0 +1,15 @@
+{
+    "name" : "TRENDY DEFI",
+    "website": "https://trendydefi.com/",
+    "description": "TRENDY DEFI",
+    "explorer":"",
+    "type": "POLYGON",
+    "symbol": "TREND",
+    "idReadApi":"trendydefi",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x12016b4E07866c962e29b7597eCd66B3B89a3a58",
+    "links":[
+  
+    ]
+}

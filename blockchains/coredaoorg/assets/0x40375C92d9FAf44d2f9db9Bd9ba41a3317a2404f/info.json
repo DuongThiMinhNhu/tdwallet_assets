@@ -1,0 +1,20 @@
+{
+    "name":"Wrapped Core",
+    "website":"",
+    "description":"WCORE: Layer 1 blockchain, EVM-Compatible with Satoshi Plus consensus, blending BTC mining hash and DPoS for security and decentralization, addressing the blockchain trilemma by merging EVM flexibility with Bitcoin security.",
+    "explorer":"https://scan.coredao.org/token/0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+    "type":"ERC20",
+    "symbol":"WCORE",
+    "idReadApi":"wrapped-core",
+    "id":"0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+    "tags":[
+        "stablecoin"
+    ],
+    "links":[
+      {
+        "name":"coingecko",
+        "url":"https://www.coingecko.com/en/coins/wrapped-core"
+      }
+    ]
+    
+}

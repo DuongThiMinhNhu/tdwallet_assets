@@ -1,0 +1,20 @@
+{
+    "chainId":1116,
+    "name": "Core Chain MainNet",
+    "website":"https://coredao.org/",
+    "description":"",
+    "explorer": "https://scan.coredao.org/",
+    "research": "",
+    "symbol": "CORE",
+    "rpc_url": "https://rpc.coredao.org/",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+     "tags": [
+        "dapp",
+        "staking-native"
+    ],
+    "links": [
+       
+    ]
+}
